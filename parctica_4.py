@@ -90,6 +90,8 @@ Grafico
     - Usuario y Carrito: asociacion.
     - Carrito y Producto: composicion.
 
+3) Los metodos de las clases estan  bien representados.
 
+4) El carrito no prodria existir sin el Usuario ni el producto.
 
 """
